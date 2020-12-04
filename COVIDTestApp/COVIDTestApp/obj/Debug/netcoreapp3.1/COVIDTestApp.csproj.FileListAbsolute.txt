@@ -1,0 +1,183 @@
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.StaticWebAssets.xml
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.exe
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.deps.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.runtimeconfig.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.runtimeconfig.dev.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.pdb
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.Views.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\COVIDTestApp.Views.pdb
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.AssemblyInfoInputs.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.AssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorAssemblyInfo.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorAssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\staticwebassets\COVIDTestApp.StaticWebAssets.Manifest.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\staticwebassets\COVIDTestApp.StaticWebAssets.xml
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\scopedcss\bundle\COVIDTestApp.styles.css
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.TagHelpers.input.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.TagHelpers.output.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorCoreGenerate.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.Views.pdb
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.csproj.CopyComplete
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.pdb
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\User Registration\User Registration\obj\Debug\netcoreapp3.1\COVIDTestApp.genruntimeconfig.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.StaticWebAssets.xml
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.exe
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.deps.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.runtimeconfig.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.runtimeconfig.dev.json
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.pdb
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.Views.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\COVIDTestApp.Views.pdb
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.csprojAssemblyReference.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.AssemblyInfoInputs.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.AssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorAssemblyInfo.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorAssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\staticwebassets\COVIDTestApp.StaticWebAssets.Manifest.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\staticwebassets\COVIDTestApp.StaticWebAssets.xml
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\COVIDTestApp.styles.css
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.TagHelpers.input.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.TagHelpers.output.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorCoreGenerate.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.Views.pdb
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.csproj.CopyComplete
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.dll
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.pdb
+C:\Users\Administrator.DESKTOP-3AQ9ADR\Desktop\SoftwareProjectCOMP231\COVIDTestApp\COVIDTestApp\obj\Debug\netcoreapp3.1\COVIDTestApp.genruntimeconfig.cache
