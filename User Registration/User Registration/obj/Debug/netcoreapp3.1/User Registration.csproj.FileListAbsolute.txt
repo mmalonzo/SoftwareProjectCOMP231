@@ -1,0 +1,92 @@
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.StaticWebAssets.xml
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.exe
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.deps.json
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.runtimeconfig.json
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.runtimeconfig.dev.json
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.pdb
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.Views.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\User Registration.Views.pdb
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.csprojAssemblyReference.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.AssemblyInfoInputs.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.AssemblyInfo.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.csproj.CoreCompileInputs.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.MvcApplicationPartsAssemblyInfo.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.MvcApplicationPartsAssemblyInfo.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.RazorAssemblyInfo.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.RazorAssemblyInfo.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\staticwebassets\User Registration.StaticWebAssets.Manifest.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\staticwebassets\User Registration.StaticWebAssets.xml
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\scopedcss\bundle\User Registration.styles.css
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.TagHelpers.input.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.TagHelpers.output.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.RazorCoreGenerate.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.RazorTargetAssemblyInfo.cache
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.RazorTargetAssemblyInfo.cs
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.Views.pdb
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.csproj.CopyComplete
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.dll
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.pdb
+F:\Fall2020 Semester5\COMP231 SDP1\Project\User Registration\User Registration\obj\Debug\netcoreapp3.1\User Registration.genruntimeconfig.cache
