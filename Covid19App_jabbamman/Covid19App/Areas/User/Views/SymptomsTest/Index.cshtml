@@ -1,0 +1,91 @@
+﻿@model IEnumerable<SymptomsTest>
+@{
+    ViewData["Title"] = "Symptoms Test";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<br />
+<br />
+
+<div>
+    <div class="border backgroundWhiteBorder">
+        <div class="row">
+            <div class="col-6">
+                <h2 class="text-info">Symptoms Test List</h2>
+            </div>
+            <div class="col-6 text-right">
+                <partial name="_CreateButtonPartial" />
+            </div>
+        </div>
+
+    </div>
+    <br />
+
+    <div>
+        <table class="table table-striped border">
+            <tr class="table-secondary">
+                <th>
+                    @Html.DisplayNameFor(m => m.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(m => m.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(m => m.DOB)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(m => m.Address)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(m => m.Result)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(m => m.TestDate)
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+
+            @if (Model.Count() > 0)
+            {
+                @foreach (var item in Model)
+                {
+        <tr>
+            <td>@Html.DisplayFor(m => item.Id) </td>
+
+
+            <td>@Html.DisplayFor(m => item.Name) </td>
+
+            <td>@Html.DisplayFor(m => item.DOB) </td>
+
+            <td>@Html.DisplayFor(m => item.Address) </td>
+
+
+            <td>@Html.DisplayFor(m => item.Result) </td>
+
+
+            <td>@Html.DisplayFor(m => item.TestDate) </td>
+
+            <td>
+               <partial name="_TableButtonPartial" model="item.Id" />
+            </td>
+        </tr>
+
+                }
+            }
+
+
+            else
+            {
+            <p class="text-danger"> <i class="fas fa-stop-circle"></i>  No Previouse Symptoms Test Data Exist ...</p>
+
+            }
+
+
+        </table>
+    </div>
+
+
+
+</div>
