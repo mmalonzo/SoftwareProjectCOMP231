@@ -8891,25 +8891,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PTJAB\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Administrator.DESKTOP-3AQ9ADR\\.nuget\\packages\\": {},
+    "F:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PTJAB\\Desktop\\Covid19App\\Covid19App\\Covid19App\\Covid19App.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator.DESKTOP-3AQ9ADR\\Desktop\\SoftwareProjectCOMP231\\Covid19App_jabbamman\\Covid19App\\Covid19App.csproj",
       "projectName": "Covid19App",
-      "projectPath": "C:\\Users\\PTJAB\\Desktop\\Covid19App\\Covid19App\\Covid19App\\Covid19App.csproj",
-      "packagesPath": "C:\\Users\\PTJAB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PTJAB\\Desktop\\Covid19App\\Covid19App\\Covid19App\\obj\\",
+      "projectPath": "C:\\Users\\Administrator.DESKTOP-3AQ9ADR\\Desktop\\SoftwareProjectCOMP231\\Covid19App_jabbamman\\Covid19App\\Covid19App.csproj",
+      "packagesPath": "C:\\Users\\Administrator.DESKTOP-3AQ9ADR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator.DESKTOP-3AQ9ADR\\Desktop\\SoftwareProjectCOMP231\\Covid19App_jabbamman\\Covid19App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "F:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\PTJAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator.DESKTOP-3AQ9ADR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -8918,7 +8916,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.grapecity.com/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

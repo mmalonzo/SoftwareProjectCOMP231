@@ -1,0 +1,266 @@
+﻿@model SymptomsTest
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<br/>
+<h2 class="text-info">Creat New Symptoms Test</h2>
+<br/>
+
+<form method="post" asp-action="Create">
+
+    <div class="border backgroundWhiteBorder">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="row form-group">
+
+            <label class="text-info">Please Fill The Following Information In-order to complete the test</label>
+        </div>
+
+        <div class="row form-group">
+
+            <div class="col-2">
+                <label asp-for="Name" class="col-form-label text-info"></label>
+            </div>
+
+            <div class="col-3">
+                <input asp-for="Name" class="form-control" placeholder="First Name - Last Name" /><br />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+
+
+
+        <div class="row form-group">
+
+            <div class="col-2">
+                <label asp-for="DOB" class="col-form-label text-info"></label>
+            </div>
+
+            <div class="col-3">
+                <input asp-for="DOB" class="form-control" placeholder="DD/MM/YYYY" /><br />
+                <span asp-validation-for="DOB" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row form-group">
+
+            <div class="col-2">
+                <label asp-for="Address" class="col-form-label text-info"></label>
+            </div>
+
+            <div class="col-3">
+                <input asp-for="Address" class="form-control" /><br />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+        </div>
+
+
+        <div class="row form-group">
+
+            <label class="text-info">
+                Do you have any of the following new or worsening symptoms or signs? Symptoms
+                should not be chronic or related to other known causes or conditions.
+            </label>
+        </div>
+
+
+        <div class="row justify-content-center alignment-items-center form-group">
+            <div class="col-5">
+                <label asp-for="Feverorchills" class="col-form-label">1. Fever or chills</label>
+            </div>
+
+            <div class="col-3">
+
+                @Html.DropDownList("Feverorchills", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+        <div class="row justify-content-center alignment-items-center">
+
+            <div class="col-5">
+                <label asp-for="Difficultybreathings" class="col-form-label">2. Difficulty breathing</label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("Difficultybreathings", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+
+        <div class="row justify-content-center alignment-items-center form-group">
+
+            <div class="col-5">
+                <label asp-for="Cough" class="col-form-label">3. Cough</label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("Cough", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+        <div class="row justify-content-center alignment-items-center form-group">
+
+            <div class="col-5">
+                <label asp-for="Sorethroat" class="col-form-label">4. Sore throat</label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("Sorethroat", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+        <div class="row justify-content-center alignment-items-center form-group">
+
+            <div class="col-5">
+                <label asp-for="Runnynose" class="col-form-label">5. Runny Nose/ Stuffy Nose</label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("Runnynose", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+        <div class="row justify-content-center alignment-items-center form-group">
+
+            <div class="col-5">
+                <label asp-for="Lossofsmell" class="col-form-label">6. Loss of taste or smell</label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("Lossofsmell", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+
+        <div class="row justify-content-center alignment-items-center form-group">
+
+            <div class="col-5">
+                <label asp-for="Nausea" class="col-form-label">7. Nausea/Vomiting/Diarrhea</label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("Nausea", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+
+        <div class="row justify-content-center alignment-items-center form-group">
+
+            <div class="col-5">
+                <label asp-for="Tiredness" class="col-form-label">8. Not Feeling Well/ Tiredness</label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("Tiredness", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+
+
+
+        <div class="row justify-content-center alignment-items-center form-group">
+
+            <div class="col-5">
+                <label asp-for="ContactCovidCases" class="col-form-label">
+                    9. Have you had close contact with a confirmed or probable case of COVID-19
+                    without wearing appropriate PPE?
+                </label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("ContactCovidCases", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+        <div class="row justify-content-center alignment-items-center form-group">
+
+            <div class="col-5">
+                <label asp-for="Travelled" class="col-form-label">
+                    10. Have you travelled outside of Canada in the past 14 days?
+                </label>
+            </div>
+
+            <div class="col-3">
+                @Html.DropDownList("Travelled", new List<SelectListItem>
+                 {
+                    new SelectListItem{ Text="Yes", Value = "true" },
+                    new SelectListItem{ Text="No", Value = "false" }
+                 })
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-2">
+                <label asp-for="TestDate" class="col-form-label text-info"></label>
+            </div>
+
+            <div class="col-3">
+                <input asp-for="TestDate" class="form-control" / value="DateTime.Now"> <br />
+                <span asp-validation-for="TestDate" class="text-danger"></span>
+            </div>
+        </div>
+
+
+        <div class="row">
+
+            <div class="col-2">
+                <label asp-for="Result" class="col-form-label text-info"></label>
+            </div>
+
+            <div class="col-3">
+                <input asp-for="Result" class="form-control" /><br />
+                <span asp-validation-for="Result" class="text-danger"></span>
+            </div>
+        </div>
+
+        <partial name="_CreateBackButton" />
+
+    </div>
+
+
+        
+
+
+
+</form>
+
